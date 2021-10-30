@@ -14,6 +14,11 @@ export default {
       type: "string",
     },
     {
+      title: "Icon",
+      name: "icon",
+      type: "string",
+    },
+    {
       name: "desc",
       title: "Description",
       type: "text",
